@@ -41,6 +41,6 @@
   <g font-family="Segoe UI, system-ui, sans-serif" font-size="16" font-weight="600">
     <g><rect x="388" y="236" width="176" height="36" rx="18" fill="#ffffff" fill-opacity="0.05" stroke="#ffae3d" stroke-opacity="0.45"/><text x="476" y="259" text-anchor="middle" fill="#ffc874">Líder + agentes</text></g>
     <g><rect x="576" y="236" width="150" height="36" rx="18" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.14"/><text x="651" y="259" text-anchor="middle" fill="#cfd6de">Fluxo ao vivo</text></g>
-    <g><rect x="738" y="236" width="232" height="36" rx="18" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.14"/><text x="854" y="259" text-anchor="middle" fill="#cfd6de">Jogo · Site · Design · Marketing</text></g>
+    <g><rect x="738" y="236" width="168" height="36" rx="18" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.14"/><text x="822" y="259" text-anchor="middle" fill="#cfd6de">Jogo · Site · Design</text></g>
   </g>
 </svg>

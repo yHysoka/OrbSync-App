@@ -11,7 +11,7 @@
 
 <p align="center">
   <b>Você descreve o que quer. Um time de agentes de IA constrói — e você assiste ao vivo.</b><br>
-  <sub>Jogos, sites, apps, design e campanhas — vários especialistas trabalhando juntos no seu projeto.</sub>
+  <sub>Jogos, sites, apps e design — vários especialistas trabalhando juntos no seu projeto.</sub>
 </p>
 
 <p align="center">
@@ -50,9 +50,9 @@ No fim, você revisa o que foi feito e integra. É o seu projeto, construído po
 |---|---|
 | 🧠 **Líder + agentes** | Decompõe o objetivo num plano e distribui entre especialistas que rodam em paralelo. |
 | 🔀 **Fluxo ao vivo** | Um canvas dos agentes trabalhando em tempo real — etapa por etapa. |
-| 🎮 **Modos** | Jogo, Site, Design e Marketing — geração guiada por IA, com painel de opções. |
+| 🎮 **Modos** | Jogo, Site e Design — geração guiada por IA, com painel de opções. |
 | 👁️ **Visor** | Prévia do que está sendo construído, sem sair do app. |
-| 🧩 **Templates de fluxo** | Receitas prontas (landing page, app, jogo, campanha…) — comece sem descrever tudo. |
+| 🧩 **Templates de fluxo** | Receitas prontas (landing page, app, jogo…) — comece sem descrever tudo. |
 | 💸 **Custo & ROI** | Quanto você gastou (por provedor) e quanto o OrbSync te economizou. |
 | 🧠 **Cérebro** | Memória de longo prazo do projeto — ele lembra do contexto entre sessões. |
 | 🔌 **Multi-provedor** | Funciona com Claude e outros provedores; marque o que é assinatura para não contar no crédito. |
