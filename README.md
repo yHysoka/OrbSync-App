@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yHysoka/OrbSync-Releases/releases/latest"><img src="https://img.shields.io/github/v/release/yHysoka/OrbSync-Releases?label=vers%C3%A3o&color=ff9f1a" alt="Última versão"></a>
-  <a href="https://github.com/yHysoka/OrbSync-Releases/releases"><img src="https://img.shields.io/github/downloads/yHysoka/OrbSync-Releases/total?label=downloads&color=ff9f1a" alt="Downloads"></a>
+  <a href="https://github.com/yHysoka/OrbSync-App/releases/latest"><img src="https://img.shields.io/github/v/release/yHysoka/OrbSync-App?label=vers%C3%A3o&color=ff9f1a" alt="Última versão"></a>
+  <a href="https://github.com/yHysoka/OrbSync-App/releases"><img src="https://img.shields.io/github/downloads/yHysoka/OrbSync-App/total?label=downloads&color=ff9f1a" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/plataforma-Windows-2a2d34" alt="Windows">
-  <a href="https://github.com/yHysoka/OrbSync-Releases/stargazers"><img src="https://img.shields.io/github/stars/yHysoka/OrbSync-Releases?style=flat&color=ff9f1a" alt="Estrelas"></a>
+  <a href="https://github.com/yHysoka/OrbSync-App/stargazers"><img src="https://img.shields.io/github/stars/yHysoka/OrbSync-App?style=flat&color=ff9f1a" alt="Estrelas"></a>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yHysoka/OrbSync-Releases/releases/latest/download/OrbSync-v1-Setup.exe"><b>⬇️ Baixar para Windows</b></a>
+  <a href="https://github.com/yHysoka/OrbSync-App/releases/latest/download/OrbSync-v1-Setup.exe"><b>⬇️ Baixar para Windows</b></a>
   &nbsp;·&nbsp;
   <a href="https://orbsync.com.br">🌐 Site</a>
   &nbsp;·&nbsp;
@@ -60,7 +60,7 @@ No fim, você revisa o que foi feito e integra. É o seu projeto, construído po
 
 ## 🚀 Começar
 
-1. **[Baixe o instalador para Windows](https://github.com/yHysoka/OrbSync-Releases/releases/latest/download/OrbSync-v1-Setup.exe)** (`OrbSync-v1-Setup.exe`).
+1. **[Baixe o instalador para Windows](https://github.com/yHysoka/OrbSync-App/releases/latest/download/OrbSync-v1-Setup.exe)** (`OrbSync-v1-Setup.exe`).
 2. Instale e abra — leva menos de um minuto.
 3. Comece com um **teste grátis**; depois, o **Sync** mantém os agentes trabalhando. Detalhes em **[orbsync.com.br](https://orbsync.com.br)**.
 
@@ -86,11 +86,11 @@ No fim, você revisa o que foi feito e integra. É o seu projeto, construído po
 - [x] Painel de custo por provedor + ROI
 - [ ] Mais modos e templates
 - [ ] Assinatura de código (instalação sem avisos)
-- [ ] _Sua ideia aqui_ — abra uma **[Issue](https://github.com/yHysoka/OrbSync-Releases/issues)** com sugestões e bugs.
+- [ ] _Sua ideia aqui_ — abra uma **[Issue](https://github.com/yHysoka/OrbSync-App/issues)** com sugestões e bugs.
 
 ## 💬 Feedback
 
-Achou um bug ou tem uma ideia? Abra uma **[Issue](https://github.com/yHysoka/OrbSync-Releases/issues)**. Curtiu o projeto? Deixe uma ⭐ — ajuda demais a mais gente descobrir.
+Achou um bug ou tem uma ideia? Abra uma **[Issue](https://github.com/yHysoka/OrbSync-App/issues)**. Curtiu o projeto? Deixe uma ⭐ — ajuda demais a mais gente descobrir.
 
 ---
 
