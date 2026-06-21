@@ -6,6 +6,7 @@
   <a href="https://github.com/yHysoka/OrbSync-App/releases/latest"><img src="https://img.shields.io/github/v/release/yHysoka/OrbSync-App?label=release&color=ff9f1a" alt="Latest release"></a>
   <img src="https://img.shields.io/badge/platform-Windows-2a2d34" alt="Windows">
   <img src="https://img.shields.io/badge/local--first-yes-2ea043" alt="Local-first">
+  <img src="https://img.shields.io/badge/free%20plan-yes-2ea043" alt="Free plan">
 </p>
 
 <p align="center">
@@ -14,17 +15,19 @@
 </p>
 
 <p align="center">
-  <sub>🤖 Works with <b>Claude</b> · <b>OpenAI</b> · <b>local models</b> &nbsp;·&nbsp; 🖥️ Your code never leaves your machine</sub>
+  <sub>🤖 Works with <b>Claude</b> · <b>OpenAI</b> · <b>local models</b> &nbsp;·&nbsp; 🖥️ Your code never leaves your machine &nbsp;·&nbsp; 🆓 Free plan, no card</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/yHysoka/OrbSync-App/releases/latest/download/OrbSync-v1-Setup.exe"><b>⬇&nbsp; Download for Windows</b></a>
+  <a href="https://github.com/yHysoka/OrbSync-App/releases/latest/download/OrbSync-v1-Setup.exe"><b>⬇&nbsp; Download free for Windows</b></a>
   &nbsp;•&nbsp;
   <a href="https://orbsync.com.br">🌐&nbsp; Website</a>
   &nbsp;•&nbsp;
   <a href="#-how-it-works">How it works</a>
   &nbsp;•&nbsp;
   <a href="#-features">Features</a>
+  &nbsp;•&nbsp;
+  <a href="#-free-vs-sync">Free vs Sync</a>
   &nbsp;•&nbsp;
   <a href="#-faq">FAQ</a>
 </p>
@@ -49,6 +52,8 @@ Coding with a single AI assistant means babysitting it: ask, copy, paste, test, 
 | You babysit every step | You supervise and approve |
 | One model, no cost visibility | Mix providers, see every dollar |
 
+> 🆓 **Start free, no card.** The free plan gives you **1 agent**, **2 projects**, **Chat + Skills** and **manual code editing** — 100% local, your own AI key, runs forever. The **Sync** plan unlocks the full team. [See Free vs Sync ↓](#-free-vs-sync)
+
 ## 🔭 How it works
 
 1. **You describe** what you want to build (or fix).
@@ -56,6 +61,8 @@ Coding with a single AI assistant means babysitting it: ask, copy, paste, test, 
 3. Agents **work in parallel**, passing results to one another (handoff).
 4. You follow the **live Flow** — who's doing what, in which file, at which stage.
 5. You **review and integrate**. Something broke? Just say what's wrong — it finds the cause, **fixes it**, and tells you **what the solution was**.
+
+> The multi-agent team, the Lead and the live Flow are part of **Sync**. On the **free** plan a single assistant codes directly for you in Chat. [Compare plans ↓](#-free-vs-sync)
 
 ## 🎬 See it in action
 
@@ -101,13 +108,44 @@ Coding with a single AI assistant means babysitting it: ask, copy, paste, test, 
 | 🏢 **Office** | See every agent and what it's working on, at a glance. |
 | 👥 **Team mode** | Sync projects and usage across your machines. |
 
+## 💎 Free vs Sync
+
+Download and use OrbSync **for free, no card required** — it runs forever. **Sync** is the upgrade that unlocks the full team: parallel multi-agent, the Lead, the Viewer (live preview) and the studios.
+
+| | 🆓 **Free** | 🟠 **Sync** |
+|---|---|---|
+| **Price** | R$ 0 — no card, runs forever | from **R$ 99/mo** |
+| **AI agent** | 1 (solo assistant that codes directly) | Full **team**, multi-agent **in parallel** |
+| **The Lead (orchestration)** | — | ✅ Plans & routes tasks to specialists |
+| **Projects** | 2 | Unlimited |
+| **Chat + Skills** | ✅ | ✅ |
+| **Manual code editing** | ✅ | ✅ |
+| **100% local · BYOK** | ✅ | ✅ |
+| **The Viewer (live preview)** | — | ✅ web / native / Android |
+| **Studios (Arena · Benchmark · Design)** | — | ✅ + AI design generation |
+| **Step-by-step build** | — | ✅ |
+| **Branch per agent + merge** | — | ✅ |
+| **Per-agent memory** | — | ✅ |
+| **Supervised mode** | — | ✅ |
+| **Support** | Community | Priority |
+
+**Want to try the full Sync?** Start a **3-day free trial (card required)** for a complete test of Sync — it auto-converts to paid on day 4; cancel before and you pay nothing.
+
+**BYOK, always.** OrbSync runs **local with your own AI key** — Claude (including Pro/Max), OpenAI, Gemini, Groq or local models. Nothing about your project passes through OrbSync's servers, and there's **no per-use charge from us**.
+
 ## 🚀 Get started
 
-1. **[Download the Windows installer](https://github.com/yHysoka/OrbSync-App/releases/latest/download/OrbSync-v1-Setup.exe)** (`OrbSync-v1-Setup.exe`).
+1. **[Download the Windows installer](https://github.com/yHysoka/OrbSync-App/releases/latest/download/OrbSync-v1-Setup.exe)** (`OrbSync-v1-Setup.exe`) — **free, no card**.
 2. Install and open — under a minute. _(First launch: Windows may show an "unrecognized app" warning — click **More info → Run anyway**. Signing is on the roadmap.)_
-3. **Free 3-day trial (card required)**, then the **Sync** subscription — pricing at **[orbsync.com.br](https://orbsync.com.br)**. You bring your own AI provider key (or run a local model).
+3. Connect your own AI provider key (or run a local model) and start building on the **free** plan right away.
+4. Want the full team? Unlock **Sync** with a **3-day free trial (card required)**, or subscribe — pricing at **[orbsync.com.br](https://orbsync.com.br)**.
 
 ## ❓ FAQ
+
+<details>
+<summary><b>Is there a free version?</b></summary><br>
+Yes. You can download and use OrbSync for free, with no card — it runs forever. The free plan includes 1 agent (a solo assistant that codes directly for you), 2 projects, Chat + Skills and manual code editing, 100% local with your own AI key. The <b>Sync</b> plan unlocks the full team: parallel multi-agent, the Lead, the Viewer (live preview), the studios (Arena / Benchmark / Design), unlimited projects and more. See <a href="#-free-vs-sync">Free vs Sync</a>.
+</details>
 
 <details>
 <summary><b>Does my code stay on my machine?</b></summary><br>
@@ -116,17 +154,17 @@ Yes. The app, the orchestration and your project files run locally — nothing a
 
 <details>
 <summary><b>Which AI providers does it support?</b></summary><br>
-Claude out of the box, plus other providers (OpenAI and compatible APIs) and local models. You can mix them and mark any provider as a subscription so its spend doesn't count against your credit.
+Claude out of the box (including Pro/Max), plus other providers (OpenAI, Gemini, Groq and compatible APIs) and local models. It's BYOK — you bring your own key, run local, and there's no per-use charge from OrbSync. You can mix providers and mark any one as a subscription so its spend doesn't count against your credit.
 </details>
 
 <details>
 <summary><b>How does it handle the context limit?</b></summary><br>
-Instead of one giant chat, work is split across many agents — each with its own fresh context — backed by long-term project memory and automatic compaction. In practice you keep building on large projects without slamming into a single window's limit. (It's distributed context, not "infinite" context.)
+Instead of one giant chat, work is split across many agents — each with its own fresh context — backed by long-term project memory and automatic compaction. In practice you keep building on large projects without slamming into a single window's limit. (It's distributed context, not "infinite" context.) The multi-agent team is part of <b>Sync</b>.
 </details>
 
 <details>
 <summary><b>How much does it cost?</b></summary><br>
-A free 3-day trial (card required), then the <b>Sync</b> subscription — see <a href="https://orbsync.com.br">orbsync.com.br</a>. On top of that you pay your own AI provider for usage; a local model avoids that provider cost, but the Sync subscription still applies.
+The <b>free</b> plan is R$ 0 — no card, runs forever (1 agent, 2 projects, Chat + Skills, manual editing, 100% local, BYOK). <b>Sync</b> unlocks the full team from <b>R$ 99/mo</b> — see <a href="https://orbsync.com.br">orbsync.com.br</a>. You can test the complete Sync with a <b>3-day free trial (card required)</b>, which auto-converts to paid on day 4 unless you cancel. On every plan you bring your own AI provider key (BYOK), so any provider usage is billed by them — a local model avoids even that.
 </details>
 
 <details>
@@ -145,6 +183,7 @@ No — OrbSync is a proprietary product. This repository hosts the installers an
 - [x] Flow templates
 - [x] Per-provider cost panel + ROI
 - [x] Real in-app captures
+- [x] Free plan (no card, runs forever)
 - [ ] Demo video
 - [ ] More modes and templates
 - [ ] Code signing (install with no warnings)
