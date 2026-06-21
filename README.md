@@ -1,97 +1,98 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="OrbSync — um time de agentes de IA construindo seu projeto, ao vivo" width="860">
+  <img src="assets/banner.svg" alt="OrbSync — a team of AI agents building your project, live" width="820">
 </p>
 
 <p align="center">
-  <a href="https://github.com/yHysoka/OrbSync-App/releases/latest"><img src="https://img.shields.io/github/v/release/yHysoka/OrbSync-App?label=vers%C3%A3o&color=ff9f1a" alt="Última versão"></a>
+  <a href="https://github.com/yHysoka/OrbSync-App/releases/latest"><img src="https://img.shields.io/github/v/release/yHysoka/OrbSync-App?label=release&color=ff9f1a" alt="Latest release"></a>
   <a href="https://github.com/yHysoka/OrbSync-App/releases"><img src="https://img.shields.io/github/downloads/yHysoka/OrbSync-App/total?label=downloads&color=ff9f1a" alt="Downloads"></a>
-  <img src="https://img.shields.io/badge/plataforma-Windows-2a2d34" alt="Windows">
-  <a href="https://github.com/yHysoka/OrbSync-App/stargazers"><img src="https://img.shields.io/github/stars/yHysoka/OrbSync-App?style=flat&color=ff9f1a" alt="Estrelas"></a>
+  <img src="https://img.shields.io/badge/platform-Windows-2a2d34" alt="Windows">
+  <img src="https://img.shields.io/badge/license-proprietary-2a2d34" alt="Proprietary">
+  <a href="https://github.com/yHysoka/OrbSync-App/stargazers"><img src="https://img.shields.io/github/stars/yHysoka/OrbSync-App?style=flat&color=ff9f1a" alt="Stars"></a>
 </p>
 
 <p align="center">
-  <b>Você descreve o que quer. Um time de agentes de IA constrói — e você assiste ao vivo.</b><br>
-  <sub>Jogos, sites, apps e design — vários especialistas trabalhando juntos no seu projeto.</sub>
+  <b>Describe what you want. A team of AI agents builds it — and you watch it happen, live.</b><br>
+  <sub>Games, websites, apps and design — multiple specialists working together on your project.</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/yHysoka/OrbSync-App/releases/latest/download/OrbSync-v1-Setup.exe"><b>⬇️ Baixar para Windows</b></a>
+  <a href="https://github.com/yHysoka/OrbSync-App/releases/latest/download/OrbSync-v1-Setup.exe"><b>⬇️ Download for Windows</b></a>
   &nbsp;·&nbsp;
-  <a href="https://orbsync.com.br">🌐 Site</a>
+  <a href="https://orbsync.com.br">🌐 Website</a>
   &nbsp;·&nbsp;
-  <a href="#-como-funciona">Como funciona</a>
+  <a href="#-how-it-works">How it works</a>
   &nbsp;·&nbsp;
-  <a href="#-recursos">Recursos</a>
+  <a href="#-features">Features</a>
+</p>
+
+<p align="center">
+  <img src="assets/flow.gif" alt="OrbSync live Flow — agents working in parallel, in real time" width="760">
+  <br><sub><i>The live Flow — your agents working in parallel, in real time.</i></sub>
 </p>
 
 ---
 
-## O que é o OrbSync
+## Why OrbSync
 
-O OrbSync é um **estúdio de agentes de IA** para o seu computador. Em vez de você conversar com **um** assistente, você coloca um **time inteiro** para trabalhar: um **Líder** entende o seu objetivo, quebra em tarefas e distribui para os **agentes especialistas** (frontend, backend, design, QA…). Eles trabalham **em paralelo**, cada um na sua parte, e você acompanha **tudo ao vivo** — sem ficar copiando e colando código.
+Working with a single AI assistant means babysitting it: ask, copy, paste, test, repeat. **OrbSync gives you a team instead.**
 
-No fim, você revisa o que foi feito e integra. É o seu projeto, construído por um time, no seu ritmo.
+You describe a goal once. A **Lead** breaks it into tasks and hands each to the right specialist — frontend, backend, design, QA. They work **in parallel**, pass results to one another, and you watch the whole thing happen on a **live canvas**. When it's done, you review and integrate. It's your project, built by a team, at your pace.
 
-## 🔭 Como funciona
+## 🔭 How it works
 
-<p align="center">
-  <img src="assets/flow.svg" alt="Você descreve → Líder planeja → Agentes trabalham em paralelo → Fluxo ao vivo → Revisa e integra" width="980">
-</p>
+1. **You describe** what you want to build (or fix).
+2. The **Lead** breaks it into tasks with dependencies and assigns each to the right agent.
+3. Agents **work in parallel**, passing results to one another (handoff).
+4. You follow along in the **live Flow** — who's doing what, in which file, at which stage.
+5. You **review and integrate**. Something broke? Just say what's wrong — it diagnoses the cause, **fixes it**, and tells you **what the solution was**.
 
-1. **Você descreve** o que quer construir (ou corrigir).
-2. O **Líder** decompõe em tarefas com dependências e atribui cada uma ao agente certo.
-3. Os **agentes trabalham em paralelo**, passando o resultado de uns para os outros (handoff).
-4. Você acompanha no **Fluxo ao vivo** — quem está fazendo o quê, em que arquivo, em qual etapa.
-5. Você **revisa e integra**. Deu algum problema? Só dizer o que está errado: ele diagnostica, **corrige** e te explica **qual foi a solução**.
-
-## ✨ Recursos
+## ✨ Features
 
 | | |
 |---|---|
-| 🧠 **Líder + agentes** | Decompõe o objetivo num plano e distribui entre especialistas que rodam em paralelo. |
-| 🔀 **Fluxo ao vivo** | Um canvas dos agentes trabalhando em tempo real — etapa por etapa. |
-| 🎮 **Modos** | Jogo, Site e Design — geração guiada por IA, com painel de opções. |
-| 👁️ **Visor** | Prévia do que está sendo construído, sem sair do app. |
-| 🧩 **Templates de fluxo** | Receitas prontas (landing page, app, jogo…) — comece sem descrever tudo. |
-| 💸 **Custo & ROI** | Quanto você gastou (por provedor) e quanto o OrbSync te economizou. |
-| 🧠 **Cérebro** | Memória de longo prazo do projeto — ele lembra do contexto entre sessões. |
-| 🔌 **Multi-provedor** | Funciona com Claude e outros provedores; marque o que é assinatura para não contar no crédito. |
-| 🔁 **Auto-update** | Novas versões chegam sozinhas. |
+| 🧠 **Lead + agents** | Breaks your goal into a plan and routes tasks to specialists that run in parallel. |
+| 🔀 **Live Flow** | A real-time canvas of your agents working — step by step. |
+| 🎮 **Modes** | Game, Website and Design — AI-guided generation with an options panel. |
+| 👁️ **Preview** | See what's being built without leaving the app. |
+| 🧩 **Flow templates** | Ready-made recipes (landing page, app, game…) so you start without describing everything. |
+| 💸 **Cost & ROI** | See your spend per provider and how much OrbSync saved you. |
+| 🧠 **Memory** | Long-term project memory — it remembers context across sessions. |
+| 🔌 **Multi-provider** | Works with Claude and other providers; mark a provider as a subscription so it doesn't count against your credit. |
+| 🔁 **Auto-update** | New versions arrive automatically. |
 
-## 🚀 Começar
+## 🚀 Get started
 
-1. **[Baixe o instalador para Windows](https://github.com/yHysoka/OrbSync-App/releases/latest/download/OrbSync-v1-Setup.exe)** (`OrbSync-v1-Setup.exe`).
-2. Instale e abra — leva menos de um minuto.
-3. Comece com um **teste grátis**; depois, o **Sync** mantém os agentes trabalhando. Detalhes em **[orbsync.com.br](https://orbsync.com.br)**.
+1. **[Download the Windows installer](https://github.com/yHysoka/OrbSync-App/releases/latest/download/OrbSync-v1-Setup.exe)** (`OrbSync-v1-Setup.exe`).
+2. Install and open — it takes under a minute.
+3. Start with a **free trial**; then **Sync** keeps the agents working. Details at **[orbsync.com.br](https://orbsync.com.br)**.
 
-> 💡 Na primeira execução, o Windows pode mostrar um aviso de "app não reconhecido" (instalador novo). É só **Mais informações → Executar assim mesmo**.
+> 💡 On first launch, Windows may show an "unrecognized app" warning (new installer). Just click **More info → Run anyway**.
 
-## 🖼️ Telas
+## 🖼️ Screenshots
 
-<!-- Dica: troque estes placeholders por prints/GIFs reais do app (Chat, Fluxo, Projetos, Custo).
-     GIFs vendem muito mais que texto — capriche no do Fluxo ao vivo. -->
+<!-- Tip: replace these placeholders with real screenshots (Chat, Projects/Kanban, Cost). -->
 
-| Chat & Líder | Fluxo ao vivo |
+| Chat & Lead | Projects (Kanban) |
 |:---:|:---:|
-| _(adicione um print)_ | _(adicione um GIF do Fluxo)_ |
+| _(add a screenshot)_ | _(add a screenshot)_ |
 
-| Projetos (Kanban) | Custo & ROI |
+| Live Flow | Cost & ROI |
 |:---:|:---:|
-| _(adicione um print)_ | _(adicione um print)_ |
+| _(add a screenshot)_ | _(add a screenshot)_ |
 
 ## 🗺️ Roadmap
 
-- [x] Fluxo ao vivo dos agentes
-- [x] Templates de fluxo
-- [x] Painel de custo por provedor + ROI
-- [ ] Mais modos e templates
-- [ ] Assinatura de código (instalação sem avisos)
-- [ ] _Sua ideia aqui_ — abra uma **[Issue](https://github.com/yHysoka/OrbSync-App/issues)** com sugestões e bugs.
+- [x] Live agent Flow
+- [x] Flow templates
+- [x] Per-provider cost panel + ROI
+- [ ] More modes and templates
+- [ ] Code signing (install with no warnings)
+- [ ] _Your idea here_ — open an **[Issue](https://github.com/yHysoka/OrbSync-App/issues)** with suggestions and bugs.
 
 ## 💬 Feedback
 
-Achou um bug ou tem uma ideia? Abra uma **[Issue](https://github.com/yHysoka/OrbSync-App/issues)**. Curtiu o projeto? Deixe uma ⭐ — ajuda demais a mais gente descobrir.
+Found a bug or have an idea? Open an **[Issue](https://github.com/yHysoka/OrbSync-App/issues)**. Like the project? Drop a ⭐ — it genuinely helps more people discover it.
 
 ---
 
-<sub>OrbSync é um produto proprietário. Este repositório hospeda os **instaladores** e a **documentação pública** — o código-fonte não é aberto. © OrbSync.</sub>
+<sub>OrbSync is a proprietary product. This repository hosts the **installers** and **public documentation** — the source code is not open. © OrbSync.</sub>

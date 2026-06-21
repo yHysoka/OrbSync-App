@@ -1,6 +1,6 @@
 <svg viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ttl dsc">
   <title id="ttl">OrbSync</title>
-  <desc id="dsc">Um time de agentes de IA construindo seu projeto, ao vivo.</desc>
+  <desc id="dsc">A team of AI agents building your project, live.</desc>
   <defs>
     <radialGradient id="glow" cx="20%" cy="18%" r="65%">
       <stop offset="0%" stop-color="#ffae3d" stop-opacity="0.18"/>
@@ -36,11 +36,11 @@
   </g>
 
   <text x="384" y="152" font-family="Segoe UI, system-ui, sans-serif" font-size="78" font-weight="800" fill="#ffffff" letter-spacing="-1.5">Orb<tspan fill="#ffae3d">Sync</tspan></text>
-  <text x="388" y="200" font-family="Segoe UI, system-ui, sans-serif" font-size="25" font-weight="500" fill="#8b97a4">Um time de agentes de IA construindo seu projeto — ao vivo.</text>
+  <text x="388" y="200" font-family="Segoe UI, system-ui, sans-serif" font-size="25" font-weight="500" fill="#8b97a4">A team of AI agents building your project — live.</text>
 
   <g font-family="Segoe UI, system-ui, sans-serif" font-size="16" font-weight="600">
-    <g><rect x="388" y="236" width="176" height="36" rx="18" fill="#ffffff" fill-opacity="0.05" stroke="#ffae3d" stroke-opacity="0.45"/><text x="476" y="259" text-anchor="middle" fill="#ffc874">Líder + agentes</text></g>
-    <g><rect x="576" y="236" width="150" height="36" rx="18" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.14"/><text x="651" y="259" text-anchor="middle" fill="#cfd6de">Fluxo ao vivo</text></g>
-    <g><rect x="738" y="236" width="168" height="36" rx="18" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.14"/><text x="822" y="259" text-anchor="middle" fill="#cfd6de">Jogo · Site · Design</text></g>
+    <g><rect x="388" y="236" width="168" height="36" rx="18" fill="#ffffff" fill-opacity="0.05" stroke="#ffae3d" stroke-opacity="0.45"/><text x="472" y="259" text-anchor="middle" fill="#ffc874">Lead + agents</text></g>
+    <g><rect x="568" y="236" width="130" height="36" rx="18" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.14"/><text x="633" y="259" text-anchor="middle" fill="#cfd6de">Live flow</text></g>
+    <g><rect x="710" y="236" width="210" height="36" rx="18" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.14"/><text x="815" y="259" text-anchor="middle" fill="#cfd6de">Games · Sites · Design</text></g>
   </g>
 </svg>
