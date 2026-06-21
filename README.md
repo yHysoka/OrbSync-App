@@ -71,34 +71,61 @@ Coding with a single AI assistant means babysitting it: ask, copy, paste, test, 
 
 ## 🖼️ A closer look
 
-> _Visuals below are faithful recreations of the interface; real in-app captures are coming soon. Figures shown are illustrative._
+OrbSync is a full studio, not a single trick. A quick tour:
+
+> _Visuals are faithful recreations of the interface; real in-app captures are coming soon. Figures shown are illustrative._
+
+### Build &amp; ship
+
+<p align="center">
+  <img src="assets/design.png" alt="Design studio — a brief turned into UI directions" width="820">
+  <br><sub><i><b>Design studio</b> — turn a brief into UI directions, guided step by step.</i></sub>
+</p>
+
+<p align="center">
+  <img src="assets/visor.png" alt="Live preview — what's being built, rendered in the app" width="820">
+  <br><sub><i><b>Live preview</b> — see and test what's being built, without leaving the app.</i></sub>
+</p>
+
+### Stay in control
 
 <p align="center">
   <img src="assets/board.png" alt="Projects board — every task with its agent, status and progress" width="820">
-  <br><sub><i>Every task on a board — its agent, status and progress as the team works.</i></sub>
+  <br><sub><i><b>Projects board</b> — every task, its agent, status and progress as the team works.</i></sub>
+</p>
+
+<p align="center">
+  <img src="assets/context.png" alt="Context — split across agents, memory and compaction" width="820">
+  <br><sub><i><b>Context</b> — split across agents + project memory + auto-compaction, so big projects don't hit one window's wall.</i></sub>
 </p>
 
 <p align="center">
   <img src="assets/cost.png" alt="Cost & ROI — spend per provider, subscriptions, and the return" width="820">
-  <br><sub><i>Mark a subscription provider (e.g. Claude Max) and its spend drops off your metered credit — the panel shows the difference.</i></sub>
+  <br><sub><i><b>Cost &amp; ROI</b> — spend per provider; mark a subscription (e.g. Claude Max) to keep it off your credit, and see the return.</i></sub>
+</p>
+
+### Pick the right model
+
+<p align="center">
+  <img src="assets/arena.png" alt="Arena — models head-to-head on the same task" width="820">
+  <br><sub><i><b>Arena</b> — run models head-to-head on the same task, side by side, and keep the winner.</i></sub>
+</p>
+
+<p align="center">
+  <img src="assets/benchmark.png" alt="Benchmark — models compared on quality, cost and speed" width="820">
+  <br><sub><i><b>Benchmark</b> — measure models across quality, cost and speed to pick the best for the job.</i></sub>
 </p>
 
 <p align="center">
   <a href="https://github.com/yHysoka/OrbSync-App/releases/latest/download/OrbSync-v1-Setup.exe"><b>⬇&nbsp; Download for Windows — free trial</b></a>
 </p>
 
-## 🧰 More in the studio
-
-OrbSync is a full workspace, not a single trick:
+## 🧰 Also in the box
 
 | | |
 |---|---|
-| ⚔️ **Arena** | Run models or agents head-to-head on the same task, side by side, and keep the winner. |
-| 📊 **Benchmark** | Measure models and agents across tasks to find the best — and cheapest — for the job. |
-| 🎨 **Design studio** | Turn a brief into UI and assets, guided step by step. |
-| 👁️ **Live preview** | See and test what's being built without leaving the app. |
-| 🧠 **Project memory** | It remembers your project's context across sessions. |
-| 🧩 **Skills** | Give your agents reusable, shareable abilities. |
+| 🧠 **Project memory** | Remembers your project's context across sessions. |
+| 🧩 **Skills** | Reusable, shareable abilities for your agents. |
 | 🔱 **Built-in Git** | Branches, commits and pull requests — every agent's work stays reviewable. |
 | 🗄️ **Database studio** | Inspect and work with your project's data. |
 | 🏢 **Office** | See every agent and what it's working on, at a glance. |
