@@ -103,10 +103,11 @@ Coding with a single AI assistant means babysitting it: ask, copy, paste, test, 
 | 👁️ **Live preview** | See and test what's being built without leaving the app. |
 | 🧠 **Project memory** | Remembers your project's context across sessions. |
 | 🧩 **Skills** | Reusable, shareable abilities for your agents. |
+| 🗂️ **Folders & categories** | Organize your skills and agents into colored folders — in the library and per project. |
+| ✨ **Prompt assist** | A one-click button next to every "describe it" field that turns a rough note into a sharp prompt. |
 | 🔱 **Built-in Git** | Branches, commits and pull requests — every agent's work stays reviewable. |
 | 🗄️ **Database studio** | Inspect and work with your project's data. |
 | 🏢 **Office** | See every agent and what it's working on, at a glance. |
-| 👥 **Team mode** | Sync projects and usage across your machines. |
 
 ## 💎 Free vs Sync
 
@@ -165,6 +166,11 @@ Instead of one giant chat, work is split across many agents — each with its ow
 <details>
 <summary><b>How much does it cost?</b></summary><br>
 The <b>free</b> plan is R$ 0 — no card, runs forever (1 agent, 2 projects, Chat + Skills, manual editing, 100% local, BYOK). <b>Sync</b> unlocks the full team from <b>R$ 99/mo</b> — see <a href="https://orbsync.com.br">orbsync.com.br</a>. You can test the complete Sync with a <b>3-day free trial (card required)</b>, which auto-converts to paid on day 4 unless you cancel. On every plan you bring your own AI provider key (BYOK), so any provider usage is billed by them — a local model avoids even that.
+</details>
+
+<details>
+<summary><b>Can I use it on more than one computer?</b></summary><br>
+Yes — install it on as many machines as you like, with <b>no device limit</b>. Your license runs <b>one session at a time</b>: open the app on another computer and it simply disconnects the previous one, so you switch machines freely. (Sharing your key with someone else doesn't help — you'd just be fighting over the same session.)
 </details>
 
 <details>
