@@ -106,6 +106,7 @@ Coding with a single AI assistant means babysitting it: ask, copy, paste, test, 
 | 🗂️ **Folders & categories** | Organize your skills and agents into colored folders — in the library and per project. |
 | ✨ **Prompt assist** | A one-click button next to every "describe it" field that turns a rough note into a sharp prompt. |
 | 🔱 **Built-in Git** | Branches, commits and pull requests — every agent's work stays reviewable. |
+| 🛡️ **Guardrails** | Safety rules your agents never cross — *allow*, *ask for approval* or *block*, on files and commands. Built-in protections, ready-made examples, and a tester to see what would happen. |
 | 🗄️ **Database studio** | Inspect and work with your project's data. |
 | 🏢 **Office** | See every agent and what it's working on, at a glance. |
 
